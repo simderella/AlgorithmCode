@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tytyt\\Desktop\\SpartaCoding\\AlgorithmCodeKata\\AlgorithmCodeKata\\AlgorithmCodeKata.csproj",
+      "projectUniqueName": "C:\\Users\\tytyt\\Desktop\\SpartaCoding\\AlgorithmCode\\AlgorithmCodeKata\\AlgorithmCodeKata.csproj",
       "projectName": "AlgorithmCodeKata",
-      "projectPath": "C:\\Users\\tytyt\\Desktop\\SpartaCoding\\AlgorithmCodeKata\\AlgorithmCodeKata\\AlgorithmCodeKata.csproj",
+      "projectPath": "C:\\Users\\tytyt\\Desktop\\SpartaCoding\\AlgorithmCode\\AlgorithmCodeKata\\AlgorithmCodeKata.csproj",
       "packagesPath": "C:\\Users\\tytyt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tytyt\\Desktop\\SpartaCoding\\AlgorithmCodeKata\\AlgorithmCodeKata\\obj\\",
+      "outputPath": "C:\\Users\\tytyt\\Desktop\\SpartaCoding\\AlgorithmCode\\AlgorithmCodeKata\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tytyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
