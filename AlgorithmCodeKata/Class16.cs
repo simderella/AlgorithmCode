@@ -22,7 +22,7 @@ namespace AlgorithmCodeKata
                 }
 
                 return answer;
-            }
+            }//x수 만큼 x번 간격두기
         }
     }
 }
